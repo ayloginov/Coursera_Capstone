@@ -29,13 +29,17 @@ We will then work with the Google Places API to locate dental clinics in those c
 We will have to limit our search by the central part of each city, so we will select 40 central districts in each city.
 
 Here is the example of how it will look for **Prague**:
+![praha](https://github.com/ayloginov/Coursera_Capstone/blob/main/Final%20Project/praha.png)
 
+---------------------------------------------------------
+The selected **Porto** districts are mapped below:
 
-The selected **Porto** districts are mapped below
+![porto](https://github.com/ayloginov/Coursera_Capstone/blob/main/Final%20Project/porto.png)
 
+----------------------------------------------------------
+**Cologne** center map:
 
-**Cologne** center map
-
+![koln](https://github.com/ayloginov/Coursera_Capstone/blob/main/Final%20Project/koln.png)
 
 So, now we have 40 central districts mapped for each city.
 We will then search for dental clinics around these locations using the Google API
